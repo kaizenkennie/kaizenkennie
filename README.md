@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kennedy Nicholson 👋🏽
 
-<!--
-**kaizenkennie/kaizenkennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA focused on Project Management  
+📊 Aspiring Operations, Business Analyst & Customer Success professional  
+⚙️ Currently building projects in CRM systems, analytics, and process improvement
 
-Here are some ideas to get you started:
+I’m passionate about improving customer experiences, streamlining workflows, and using data to help organizations make smarter decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Currently Working On
+
+✨ Salesforce CRM projects & automation workflows  
+📈 Customer Success analytics dashboards  
+🧠 Process improvement case studies using Lean Six Sigma principles  
+💻 Data analytics simulations & portfolio projects  
+
+---
+
+## 🛠️ Skills & Tools
+
+📌 CRM: Salesforce (Admin in progress)  
+📊 Data Visualization: Tableau, Excel  
+🧩 Business Analysis: Process Mapping, Requirements Analysis  
+⚙️ Process Improvement: Lean Six Sigma  
+📁 Project Management  
+
+---
+
+## 🎯 Career Goals
+
+✔️ Transition into Operations, Analyst, or Customer Success roles in SaaS  
+✔️ Build a strong portfolio of CRM and analytics projects  
+✔️ Grow into fractional consulting in operations and process improvement  
+
+---
+
+## 🌎 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/kennedy-nicholson/
